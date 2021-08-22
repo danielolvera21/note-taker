@@ -24,4 +24,4 @@ Link to Github:
 https://github.com/danielolvera21/note-taker
 
 Link to working app in browser:
-https://danielolvera21.github.io/note-taker/
+https://murmuring-shelf-65019.herokuapp.com/
